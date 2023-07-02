@@ -1,4 +1,4 @@
-- 👋 Hey! I’m Sid @sidtuladhar
+- 👋 Hii I'm sid :D
 - 📚 I’m currently a Junior studying Computer Systems Engineering @ NYU Shanghai
 - 🔭 I'm currently working on a [Blood Donation App](https://github.com/sidtuladhar/BloodNepal)! 
 - 📫 Feel free to reach out:
