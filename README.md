@@ -1,6 +1,6 @@
 - 👋 Hey! I’m Sid @sidtuladhar
 - 📚 I’m currently a Junior studying Computer Systems Engineering @ NYU Shanghai
-- 🔭 I'm currently working on a [blood donation app](https://github.com/sidtuladhar/BloodNepal)! 
+- 🔭 I'm currently working on a [Blood Donation App](https://github.com/sidtuladhar/BloodNepal)! 
 - 📫 Feel free to reach out:
 - Email: sid.tuladhar@nyu.edu
 - Linkedin: [Siddhartha Tuladhar](https://www.linkedin.com/in/sidtuladhar/)
