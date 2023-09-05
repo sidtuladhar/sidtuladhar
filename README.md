@@ -1,6 +1,6 @@
 - 👋 Hi there! I'm Sid 
-- 📚 I’m currently a Junior studying Computer Systems Engineering @ NYU Shanghai
-- 📍 Kathmandu (New York soon)
+- 📚 I’m currently a Junior studying Computer Systems Engineering @ NYU
+- 📍 New York
 - 📫 Feel free to reach out:
 - Email: sid.tuladhar@nyu.edu
 - Linkedin: [Siddhartha Tuladhar](https://www.linkedin.com/in/sidtuladhar/)
