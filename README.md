@@ -1,4 +1,5 @@
-- 👋 Hi there! I'm Sid 
+- 👋 Hi there! I'm Sid
+- 🏠 United Kingdom & Nepal
 - 📚 I’m currently a Junior studying Computer Engineering @ NYU
 - 📍 New York City
 - 📫 Feel free to reach out:
