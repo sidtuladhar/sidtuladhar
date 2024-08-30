@@ -1,5 +1,5 @@
 - 👋 Hi there! I'm Sid
-- 🏠 United Kingdom & Nepal
+- 🏠 Nepal
 - 📚 I’m currently a Senior studying Computer Engineering @ NYU
 - 📍 Shanghai
 - 📫 Feel free to reach out:
