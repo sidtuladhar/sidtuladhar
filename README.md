@@ -1,6 +1,6 @@
 - 👋 Hi there! I'm Sid
 - 🏠 United Kingdom & Nepal
-- 📚 I’m currently a Junior studying Computer Engineering @ NYU
+- 📚 I’m currently a Senior studying Computer Engineering @ NYU
 - 📍 Shanghai
 - 📫 Feel free to reach out:
 - Email: sid.tuladhar@nyu.edu
